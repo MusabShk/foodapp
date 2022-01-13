@@ -42,4 +42,4 @@ To make this app more userfriendly i have added:
 
 ### Notification popup on successfully placing an order
 
-![](app-screenshots/6.png)
+![](app-screenshots/06.png)
