@@ -1,13 +1,13 @@
 # foodapp-forfoodlovers
 
-A Web App build for foodies :) with exciting items on the menu which they wish it could delivered to their doorsteps :( </br>
+A Web App build for foodies :) with exciting items on the menu which they wish it could be delivered to their doorsteps :( </br>
 Build using React.js and bootstrap 5.0
 
 Features this app provides:
 1. Signup for new users
 2. Login for existing users
 3. A range of items to select from
-4. Quantity selection for a particular item which they choose to buy
+4. Quantity selection for a particular item which the user chooses to buy
 5. Custom notification popup when a user places an order successfully
 
 To make this app more userfriendly i have added:
